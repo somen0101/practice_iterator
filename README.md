@@ -1,13 +1,17 @@
 # practice_iterator
-practice iterator by python
 
-## pythonのiteratorについて学習
-https://python.ms/iterator/
+pythonのイテレータについて情け容赦なく学ぶ。
 
-1.iter()
+参考:https://python.ms/iterator/
 
-2.next()
+# 環境
 
-3.container
+* python 3.9.18
 
-4.iterator作成
+# Usage
+
+```bash
+git clone https://github.com/somen0101/practice_iterator.git
+cd practice_iterator
+python3 practice_iterator.py
+```
